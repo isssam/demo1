@@ -1,5 +1,2 @@
-{{id: 1560608769632, username: 'sa', name: 'Artificial Intelligence',subname: 'dwdwd', email: 'ssss',role:'',dateregister:'',enable:''},
-  {id: 1560608796014, username: 'xax', name: 'Machine Learning',subname: 'dwdwd', email: '',role:'',dateregister:'',enable:''},
-  {id: 1560608787815, username: 'ewrt', name: 'Robotic Process Automation',subname: 'dwdwd', email: '',role:'',dateregister:'',enable:''},
-  {id: 1560608805101, username: 'xaxa', name: 'Blockchain',subname: 'dwdwd', email: '',role:'',dateregister:'',enable:''}
-}
+[{"id": 1560608769632, "username": "sa", "name": "Artificial Intelligence","subname": "dwdwd", "email": "ssss","role":"","dateregister":"","enable":""},
+  {"id": 1560608796014, "username": "xax", "name": "Machine Learning","subname": "dwdwd", "email": "","role":"","dateregister":"","enable":""}]
