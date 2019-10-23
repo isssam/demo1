@@ -1,2 +1,14 @@
-[{"id": 1560608769632, "username": "sa", "name": "Artificial Intelligence","subname": "dwdwd", "email": "ssss","role":"","dateregister":"","enable":""},
-  {"id": 1560608796014, "username": "xax", "name": "Machine Learning","subname": "dwdwd", "email": "","role":"","dateregister":"","enable":""}]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
